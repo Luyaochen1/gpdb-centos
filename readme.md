@@ -1,4 +1,4 @@
-# reference
+# Reference
 This is a combination of below works
 
 Running Greenplum on center OS docker
