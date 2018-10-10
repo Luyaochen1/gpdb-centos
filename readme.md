@@ -1,7 +1,9 @@
 # reference
 This is a combination of below works
+
 Running Greenplum on center OS docker
   https://github.com/pavels1983/test
+
 Running multi-host Greenplum on Ubuntu
 https://github.com/DataRoadTech/greenplum-docker
 
